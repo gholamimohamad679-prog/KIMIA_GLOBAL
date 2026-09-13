@@ -1,0 +1,14 @@
+{
+  "name": "KIMIA GLOBAL",
+  "owner": "COMMANDER",
+  "official_name": "KIMIA",
+  "master_hash": "912a0c32a9158794",
+  "signature": "8764a02e7f7710ee5277be777e659eaa",
+  "wallet": "TKr9W9EBV7bPuyMuJiLbM4uJqUK5ei6B28",
+  "created": "2026-09-13T09:17:25.044053+00:00",
+  "domain": "kimia.global",
+  "email": "commander@kimia.global",
+  "api_endpoint": "https://api.kimia.global/v1",
+  "scope": "GLOBAL",
+  "status": "ACTIVE"
+}
