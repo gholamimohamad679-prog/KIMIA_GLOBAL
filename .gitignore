@@ -1,20 +1,17 @@
-# لاگ‌ها (rotation داریم)
+# لاگ‌ها
 g.log
 *.log
 
-# داده در حال تغییر (ledger داریم)
+# پوشه‌های مشکل‌دار
+pct/
+audit/rollback_report_*.txt
+
+# داده در حال تغییر
 record/chain.jsonl
 
-# پوشه‌های permission
-pct/
-
-# فایل‌های موقت
-*.tmp
-*.bak
+# backup
+*.tar.gz
 
 # Python
 __pycache__/
 *.pyc
-
-# backup
-*.tar.gz
