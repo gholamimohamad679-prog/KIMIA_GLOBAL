@@ -1,0 +1,20 @@
+# لاگ‌ها (rotation داریم)
+g.log
+*.log
+
+# داده در حال تغییر (ledger داریم)
+record/chain.jsonl
+
+# پوشه‌های permission
+pct/
+
+# فایل‌های موقت
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# backup
+*.tar.gz
